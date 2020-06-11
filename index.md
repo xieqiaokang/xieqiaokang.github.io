@@ -60,7 +60,20 @@ You can click the following photo to view it online without downloading it.
 
 [<img src="https://iccv2025shenzhen.github.io/index.png" width="638">](./another-page.html)
 
-<iframe src="https://docs.google.com/gview?url=https://xieqiaokang.github.io/assets/file/ICCV2025shenzhen.pdf&embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
+<iframe src="https://docs.google.com/gview?url=https://xieqiaokang.github.io/assets/file/ICCV2025shenzhen.pdf&embedded=true" style="width:100%;" frameborder="0"></iframe>
+
+<div id="adobe-dc-view"></div>
+<script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+<script type="text/javascript">
+	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
+		var adobeDCView = 
+        new AdobeDC.View({clientId: "<YOUR_CLIENT_ID>", divId: "adobe-dc-view"});
+		adobeDCView.previewFile({
+			content:{location: {url: "https://xieqiaokang.github.io/assets/file/ICCV2025shenzhen.pdf"}},
+			metaData:{fileName: "ICCV2025shenzhen.pdf"}
+		}, {});
+	});
+</script>
 
 ## Questions and Feedback?
 
