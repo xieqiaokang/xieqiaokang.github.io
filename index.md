@@ -60,6 +60,8 @@ You can click the following photo to view it online without downloading it.
 
 [<img src="https://iccv2025shenzhen.github.io/index.png" width="638">](https://github.com/iccv2025shenzhen/iccv2025shenzhen.github.io/blob/master/ICCV2025shenzhen.pdf)
 
+<embed src="/assets/file/ICCV2025shenzhen.pdf" type="application/pdf" />
+
 ## Questions and Feedback?
 
 Having questions about our proposal? Email us at iccv2025@gmail.com and we are looing forward to hearing your voices and feedback on our proposal.## Bringing ICCV 2025 to Shenzhen
