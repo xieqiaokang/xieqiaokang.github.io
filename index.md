@@ -62,6 +62,10 @@ You can click the following photo to view it online without downloading it.
 
 <iframe src="https://docs.google.com/gview?url=https://xieqiaokang.github.io/assets/file/ICCV2025shenzhen.pdf&embedded=true" style="width:100%;" frameborder="0"></iframe>
 
+<body style="width:100%; height:100%; margin:0;">
+  <iframe src="https://docs.google.com/gview?url=https://xieqiaokang.github.io/assets/file/ICCV2025shenzhen.pdf&embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
+</body>
+
 <div id="adobe-dc-view"></div>
 <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
 <script type="text/javascript">
