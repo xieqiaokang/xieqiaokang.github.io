@@ -58,15 +58,12 @@ You are sincerely invited to download and read our proposal [(high resolution, 1
 
 You can click the following photo to view it online without downloading it.
 
-[<img src="https://iccv2025shenzhen.github.io/index.png" width="638">](./another-page.html)
+<!-- [<img src="https://iccv2025shenzhen.github.io/index.png" width="638">](./another-page.html) -->
 
 <div class='embed-container'>
-  <iframe src="https://docs.google.com/gview?url=https://xieqiaokang.github.io/assets/file/ICCV2025shenzhen.pdf&embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
+  <iframe src="https://docs.google.com/gview?url=https://xieqiaokang.github.io/assets/file/ICCV2025shenzhen.pdf&embedded=true" style="width:100%; height:200%;" frameborder="0"></iframe>
 </div>
 
-<iframe width="638" height="500" src="https://docs.google.com/gview?url=https://xieqiaokang.github.io/assets/file/ICCV2025shenzhen.pdf&embedded=true" style="width:100%; height:100%;" scrolling="no" border="0" framespacing="0" allowfullscreen="true" frameborder="0"> </iframe>
-
-<iframe src="https://docs.google.com/gview?url=https://xieqiaokang.github.io/assets/file/ICCV2025shenzhen.pdf&embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
 
 ## Questions and Feedback?
 
