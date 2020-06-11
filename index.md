@@ -29,23 +29,15 @@ Shenzhen is such a dynamic city where the traddition and modernity converge.  Yo
 
 #### Youtube.com 
 
-<!-- <link rel="stylesheet" type="text/css" href="video-responsive.css" />
-
-<div class="video-responsive">
-<iframe width="1280" height="715" src="https://www.youtube.com/embed/kahd3KmNsOE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div> -->
-
 <div class='embed-container'>
   <iframe title="YouTube video player" width="640" height="390" src="https://www.youtube.com/embed/kahd3KmNsOE" frameborder="0" allowfullscreen></iframe>
 </div>
 
-<!-- <iframe width=100% src="https://www.youtube.com/embed/kahd3KmNsOE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-
 #### Bilibili.com (within China)
 
-<!-- <div class="video-responsive">
-<iframe width="1280" height="715" src="//player.bilibili.com/player.html?aid=19348684&bvid=BV1sW411n7EJ&cid=31553075&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-</div> -->
+<div class='embed-container'>
+  <iframe title="YouTube video player" width="640" height="390" src="//player.bilibili.com/player.html?aid=19348684&bvid=BV1sW411n7EJ&cid=31553075&page=1" frameborder="0" allowfullscreen></iframe>
+</div>
 
 <!-- <iframe width="1280" height="715" src="//player.bilibili.com/player.html?aid=19348684&bvid=BV1sW411n7EJ&cid=31553075&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe> -->
 
